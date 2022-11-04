@@ -1,6 +1,6 @@
 {
-  "name": "strings",
-  "version": "0.1.0",
+  "name": "@f0c1s/strings-app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@f0c1s/escape-html": "^2022.0.0",
