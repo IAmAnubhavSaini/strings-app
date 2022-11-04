@@ -1,10 +1,25 @@
-body {
+:root {
+  --flex-gap: 20px;
+  --x-flex-gap: 20px;
+  --y-flex-gap: 10px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  padding: 0;
   margin: 0;
+}
+
+body {
+  width: 90vw;
+  min-width: 900px;
+  margin: 10vh auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
