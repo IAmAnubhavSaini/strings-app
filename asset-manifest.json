@@ -1,15 +1,15 @@
 {
-  "main.css": "/IAmAnubhavSaini/strings-app/static/css/main.bbb7921f.chunk.css",
-  "main.js": "/IAmAnubhavSaini/strings-app/static/js/main.bf3f42bc.chunk.js",
-  "main.js.map": "/IAmAnubhavSaini/strings-app/static/js/main.bf3f42bc.chunk.js.map",
-  "static/js/1.0be99120.chunk.js": "/IAmAnubhavSaini/strings-app/static/js/1.0be99120.chunk.js",
-  "static/js/1.0be99120.chunk.js.map": "/IAmAnubhavSaini/strings-app/static/js/1.0be99120.chunk.js.map",
-  "static/js/2.95ac8bda.chunk.js": "/IAmAnubhavSaini/strings-app/static/js/2.95ac8bda.chunk.js",
-  "static/js/2.95ac8bda.chunk.js.map": "/IAmAnubhavSaini/strings-app/static/js/2.95ac8bda.chunk.js.map",
-  "runtime~main.js": "/IAmAnubhavSaini/strings-app/static/js/runtime~main.dfd64983.js",
-  "runtime~main.js.map": "/IAmAnubhavSaini/strings-app/static/js/runtime~main.dfd64983.js.map",
-  "static/css/main.bbb7921f.chunk.css.map": "/IAmAnubhavSaini/strings-app/static/css/main.bbb7921f.chunk.css.map",
-  "index.html": "/IAmAnubhavSaini/strings-app/index.html",
-  "precache-manifest.7a0d7ba5384065fc0ba1e0b119365130.js": "/IAmAnubhavSaini/strings-app/precache-manifest.7a0d7ba5384065fc0ba1e0b119365130.js",
-  "service-worker.js": "/IAmAnubhavSaini/strings-app/service-worker.js"
+  "main.css": "/strings-app/static/css/main.bbb7921f.chunk.css",
+  "main.js": "/strings-app/static/js/main.bf3f42bc.chunk.js",
+  "main.js.map": "/strings-app/static/js/main.bf3f42bc.chunk.js.map",
+  "static/js/1.0be99120.chunk.js": "/strings-app/static/js/1.0be99120.chunk.js",
+  "static/js/1.0be99120.chunk.js.map": "/strings-app/static/js/1.0be99120.chunk.js.map",
+  "static/js/2.a8528f19.chunk.js": "/strings-app/static/js/2.a8528f19.chunk.js",
+  "static/js/2.a8528f19.chunk.js.map": "/strings-app/static/js/2.a8528f19.chunk.js.map",
+  "runtime~main.js": "/strings-app/static/js/runtime~main.cfcfcf1e.js",
+  "runtime~main.js.map": "/strings-app/static/js/runtime~main.cfcfcf1e.js.map",
+  "static/css/main.bbb7921f.chunk.css.map": "/strings-app/static/css/main.bbb7921f.chunk.css.map",
+  "index.html": "/strings-app/index.html",
+  "precache-manifest.84372d0f8bf368bd26208a56d65033c6.js": "/strings-app/precache-manifest.84372d0f8bf368bd26208a56d65033c6.js",
+  "service-worker.js": "/strings-app/service-worker.js"
 }
