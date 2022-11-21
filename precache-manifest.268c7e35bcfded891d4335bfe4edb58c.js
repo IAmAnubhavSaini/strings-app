@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bf3f42bc3595b9613143",
-    "url": "/strings-app/static/css/main.bbb7921f.chunk.css"
+    "revision": "c619b2c531dcb1bf00f6",
+    "url": "/strings-app/static/css/main.08e1dafd.chunk.css"
   },
   {
-    "revision": "bf3f42bc3595b9613143",
-    "url": "/strings-app/static/js/main.bf3f42bc.chunk.js"
+    "revision": "c619b2c531dcb1bf00f6",
+    "url": "/strings-app/static/js/main.c619b2c5.chunk.js"
   },
   {
     "revision": "0be991207fa5046a78bf",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/strings-app/static/js/runtime~main.cfcfcf1e.js"
   },
   {
-    "revision": "72f8ee9c9a4f1d439695b7d3184aa80d",
+    "revision": "5ee3cf3b94961baf5478b6da9056ed7b",
     "url": "/strings-app/index.html"
   }
 ];
