@@ -2,6 +2,8 @@
   --flex-gap: 20px;
   --x-flex-gap: 20px;
   --y-flex-gap: 10px;
+  --bgcolor: white;
+  --fgcolor: black;
 }
 
 *, *::before, *::after {
@@ -19,10 +21,34 @@ body {
   sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: var(--bgcolor);
+    color: var(--fgcolor);
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root{
+    --bgcolor: black;
+    --fgcolor: white;
+  }
+  body {
+    background-color: var(--bgcolor);
+    color: var(--fgcolor);
+  }
+  input {
+    background-color: var(--bgcolor);
+    color: var(--fgcolor);
+    border-color: var(--fgcolor);
+  }
 }
